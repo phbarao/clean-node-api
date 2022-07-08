@@ -1,6 +1,6 @@
 
 function test (): number {
-  return 1
+  return 'a'
 }
 
 test()
